@@ -116,4 +116,14 @@ Frontend project created for learning HTML, CSS, JavaScript, and API integration
 
 This project is free to use for educational purposes.
 
-## Output
+---
+
+## Output 1
+
+<img width="1883" height="905" alt="Screenshot 2026-04-16 155254" src="https://github.com/user-attachments/assets/f89a069f-0e69-4651-b334-4b7de216fd1f" />
+
+---
+
+## Output 2
+
+<img width="1880" height="909" alt="Screenshot 2026-04-16 155158" src="https://github.com/user-attachments/assets/62144628-0f11-41c6-9135-f8b6333eb28a" />
